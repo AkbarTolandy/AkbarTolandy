@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkbarTolandy
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Python for Data Science
+- 🌱 I’m currently working as Python Developer
 
 <!---
 AkbarTolandy/AkbarTolandy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
